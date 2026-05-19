@@ -6,7 +6,11 @@
   "mixins": [
     "NetherStoveMixin",
     "MDItems_ModTagsCompatMixin",
-    "DungeonStoveMixin"
+    "DungeonStoveMixin",
+    "FoodPropertiesAccessor",
+    "MNDFoodValuesMixin",
+    "MDFoodValuesMixin",
+    "DDFoodValuesMixin"
   ],
   "client": [
   ],

@@ -50,7 +50,6 @@ dependencies {
     implementation fg.deobf("curse.maven:my-nethers-delight-1003673:6529919")
     implementation fg.deobf("curse.maven:farmers-delight-398521:8083474")
     implementation fg.deobf("curse.maven:miners-delight-plus-689630:4978831")
-    implementation fg.deobf("curse.maven:brewin-and-chewin-637808:6237884")
     implementation fg.deobf("curse.maven:dungeons-delight-1258923:6997613")
     implementation fg.deobf("curse.maven:runiclib-880879:6981571")
 }
