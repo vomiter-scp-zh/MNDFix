@@ -52,6 +52,9 @@ dependencies {
     implementation fg.deobf("curse.maven:miners-delight-plus-689630:4978831")
     implementation fg.deobf("curse.maven:dungeons-delight-1258923:6997613")
     implementation fg.deobf("curse.maven:runiclib-880879:6981571")
+    compileOnly fg.deobf("curse.maven:compat-delight-1220638:6977441")
+    compileOnly fg.deobf("curse.maven:smidgeon-o-bliss-remastered-1288021:7216593")
+    compileOnly fg.deobf("curse.maven:brewin-and-chewin-637808:6237884")
 }
 
 //devRuntime.project(":common", true)

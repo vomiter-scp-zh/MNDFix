@@ -10,12 +10,16 @@
     "FoodPropertiesAccessor",
     "MNDFoodValuesMixin",
     "MDFoodValuesMixin",
-    "DDFoodValuesMixin"
+    "DDFoodValuesMixin",
+    "compatdelight.ModCompatMixin",
+    "compatdelight.ChaosModItemMixin",
+    "compatdelight.ApotheosisModItemMixin",
+    "sob.SOBRegistriesMixin"
   ],
   "client": [
   ],
   "injectors": {
-    "defaultRequire": 1
+    "defaultRequire": 0
   },
   "refmap": "mndfix.mixins.refmap.json"
 }
