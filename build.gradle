@@ -65,6 +65,8 @@ dependencies {
     compileOnly fg.deobf("curse.maven:compat-delight-1220638:6977441")
     compileOnly fg.deobf("curse.maven:smidgeon-o-bliss-remastered-1288021:7216593")
     compileOnly fg.deobf("curse.maven:brewin-and-chewin-637808:6237884")
+
+    compileOnly fg.deobf("curse.maven:balanced-crates-641089:5820858")
 }
 
 //devRuntime.project(":common", true)
