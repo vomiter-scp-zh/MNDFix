@@ -64,9 +64,12 @@ dependencies {
 
     compileOnly fg.deobf("curse.maven:compat-delight-1220638:6977441")
     compileOnly fg.deobf("curse.maven:smidgeon-o-bliss-remastered-1288021:7216593")
-    compileOnly fg.deobf("curse.maven:brewin-and-chewin-637808:6237884")
+    implementation fg.deobf("curse.maven:brewin-and-chewin-637808:6237884")
 
-    compileOnly fg.deobf("curse.maven:balanced-crates-641089:5820858")
+    implementation fg.deobf("curse.maven:farmers-respite-551453:5543547")
+    compileOnly fg.deobf("curse.maven:create-central-kitchen-820977:6987710")
+    implementation fg.deobf("curse.maven:ends-delight-662675:5896022")
+    implementation fg.deobf("curse.maven:jadens-nether-expansion-delight-1190275:6924059")
 }
 
 //devRuntime.project(":common", true)
