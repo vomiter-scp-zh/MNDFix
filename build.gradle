@@ -68,8 +68,15 @@ dependencies {
 
     implementation fg.deobf("curse.maven:farmers-respite-551453:5543547")
     compileOnly fg.deobf("curse.maven:create-central-kitchen-820977:6987710")
-    implementation fg.deobf("curse.maven:ends-delight-662675:5896022")
-    implementation fg.deobf("curse.maven:jadens-nether-expansion-delight-1190275:6924059")
+    compileOnly fg.deobf("curse.maven:ends-delight-662675:5896022")
+    compileOnly fg.deobf("curse.maven:jadens-nether-expansion-delight-1190275:6924059")
+
+    implementation fg.deobf("curse.maven:abnormals-delight-442719:6974241")
+    implementation fg.deobf("curse.maven:blueprint-382216:6408581")
+    implementation fg.deobf("curse.maven:collectors-reap-807101:7457274")
+    implementation fg.deobf("curse.maven:respiteful-836471:7234726")
+    implementation fg.deobf("curse.maven:neapolitan-382016:6248885")
+    implementation fg.deobf("curse.maven:enders-delight-827163:6474007")
 }
 
 //devRuntime.project(":common", true)

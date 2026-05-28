@@ -13,6 +13,7 @@
     "DDFoodValuesMixin",
     "BlazeStoveMixin",
     "EndStoveMixin",
+    "EndStoneStoveMixin",
     "compatdelight.ModCompatMixin",
     "compatdelight.ChaosModItemMixin",
     "compatdelight.ApotheosisModItemMixin",
